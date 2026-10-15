@@ -13,3 +13,6 @@ Designed for college project teams, hackathon groups, and developer
 communities, Camp brings project organization and team communication
 into a shared workspace, with AI-assisted productivity and GitHub
 integration as part of its broader direction.
+
+Frontend: https://github.com/ttldaemon/camp-frontend
+Backend: https://github.com/ttldaemon/camp-backend
